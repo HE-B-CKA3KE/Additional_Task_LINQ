@@ -1,0 +1,15 @@
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\bin\Debug\net7.0\AdditionalTask_LINQ.exe
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\bin\Debug\net7.0\AdditionalTask_LINQ.deps.json
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\bin\Debug\net7.0\AdditionalTask_LINQ.runtimeconfig.json
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\bin\Debug\net7.0\AdditionalTask_LINQ.dll
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\bin\Debug\net7.0\AdditionalTask_LINQ.pdb
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\obj\Debug\net7.0\AdditionalTask_LINQ.csproj.AssemblyReference.cache
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\obj\Debug\net7.0\AdditionalTask_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\obj\Debug\net7.0\AdditionalTask_LINQ.AssemblyInfoInputs.cache
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\obj\Debug\net7.0\AdditionalTask_LINQ.AssemblyInfo.cs
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\obj\Debug\net7.0\AdditionalTask_LINQ.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\obj\Debug\net7.0\AdditionalTask_LINQ.dll
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\obj\Debug\net7.0\refint\AdditionalTask_LINQ.dll
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\obj\Debug\net7.0\AdditionalTask_LINQ.pdb
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\obj\Debug\net7.0\AdditionalTask_LINQ.genruntimeconfig.cache
+D:\Project\Visual Studio\Sigma\AdditionalTask_LINQ\obj\Debug\net7.0\ref\AdditionalTask_LINQ.dll
